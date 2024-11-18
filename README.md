@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying analise e desenvolvimento de sistemas and engenharia da computação na uninassau fortaleza.
-- 💼 &nbsp; Working as a Analista de suporte de T.I.
+- 🎓 &nbsp; Studying analysis and development of systems and computer engineering at Uninassau Fortaleza
+- 💼 &nbsp; Working as Support Analyst.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
