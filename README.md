@@ -32,10 +32,6 @@
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <br/>
 
-<p align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcioCalisto&theme=dark&hide_border=false" /> 
-</p>
-
 <div align="center" >
      <a href="https://github.com/MarcioCalisto">
          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioCalisto&theme=buefy&show_icons=true" />
