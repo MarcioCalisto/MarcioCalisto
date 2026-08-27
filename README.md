@@ -32,13 +32,6 @@
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <br/>
 
-<div align="center" >
-     <a href="https://github.com/MarcioCalisto">
-         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioCalisto&theme=buefy&show_icons=true" />
-         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCalisto&theme=buefy&layout=compact" />
-     </a>
-</div>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
