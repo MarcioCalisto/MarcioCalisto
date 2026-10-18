@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo como **Analista de Suporte** e curso **Análise e Desenvolvimento de Sistemas** e **Engenharia da Computação** na Uninassau Fortaleza.
+Atuo como **Analista de Suporte** e formado em **Análise e Desenvolvimento de Sistemas** na Uninassau Fortaleza.
 
 Paralelamente, direciono minha carreira para o **desenvolvimento de software**, aprofundando meus conhecimentos em **Python, FastAPI, JavaScript, React, HTML, CSS, SQL e APIs REST**. Também desenvolvo projetos práticos para consolidar fundamentos de programação, integração de sistemas e construção de aplicações web.
 
