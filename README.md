@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     README de perfil — Márcio Calisto
-     Antes de publicar, troque os trechos marcados com "TODO"
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0ea5e9,100:6366f1&height=190&section=header&text=M%C3%A1rcio%20Calisto&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20React&descSize=18&descAlignY=60" alt="Banner Márcio Calisto" />
@@ -147,8 +142,6 @@ Tenho interesse em **engenharia de software**, **desenvolvimento web**, **integr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcioCalisto&theme=tokyonight&hide_border=true&background=0d1117" alt="Sequência de contribuições" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcioCalisto&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
 
 </div>
 
