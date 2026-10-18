@@ -13,7 +13,6 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=MarcioCalisto&label=Visitas&color=0ea5e9&style=flat-square)
 ![Seguidores](https://img.shields.io/github/followers/MarcioCalisto?label=Seguidores&style=flat-square&color=6366f1&logo=github)
 ![Status](https://img.shields.io/badge/status-aberto%20a%20oportunidades-22c55e?style=flat-square)
 
@@ -41,7 +40,6 @@ Tenho interesse em **engenharia de software**, **desenvolvimento web**, **integr
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     </td>
   </tr>
   <tr>
@@ -63,6 +61,7 @@ Tenho interesse em **engenharia de software**, **desenvolvimento web**, **integr
   <tr>
     <td><b>🗄️ Bancos de dados</b></td>
     <td>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
     </td>
